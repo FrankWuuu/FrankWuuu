@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrankWuuu
 - 👀 I’m interested in python, deep learning, medical image, 3D reconstruction
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning NeRF and its applications
 - 📫 frankwu2029@gmail.com
 
 <!---
