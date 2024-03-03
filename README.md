@@ -1,4 +1,4 @@
-- 👋 Hi,
+    👋 Hi,
 - # I’m Frank Wu
 - # Education
 - Huazhong University of Science and Technology （bachelor)
