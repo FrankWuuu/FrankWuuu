@@ -1,8 +1,9 @@
 - 👋 Hi,
-  # I’m Frank Wu
+- # I’m Frank Wu
 - # Education
 - Huazhong University of Science and Technology （bachelor)
 - Shanghai Jiao Tong University (master)
+- # Interests
 - 👀 I specialize in research related to deep learning and its applications in image processing, particularly in semantic segmentation, instance segmentation, `weakly-` and `semi-supervised segmentation` algorithms, and 3D segmentation.
 - 🌱 Currently, I am focusing on `3D mesh segmentation`, exploring both fully supervised and weakly-supervised approaches.
 - 👀 Additionally, I am actively learning about NeRF (Neural Radiance Fields) and its applications in computer vision.
